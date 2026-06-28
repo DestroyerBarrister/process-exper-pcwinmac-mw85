@@ -1,4 +1,4 @@
-# 
+# 原生 Process Explorer 预设 Mac OS版 | 独家 Process Explorer 预设 PC Windows版。集成 CPU调优 和 多显示器支持，跨平台性能最大化。
 
 
 
